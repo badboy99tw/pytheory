@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "99f132ff04d26322b6c356db43f92f7dbbd619c5c14bc7c6560e5a442d58c34e"
+            "sha256": "8506cfd09ae3d5985407800128832c98167a66e00600343e71997ed212279868"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -121,11 +121,8 @@
             "version": "==2.1.2"
         },
         "pytuning": {
-            "hashes": [
-                "sha256:50b16a339351c902fdcd1ffc038d25fd537959b316ec8621fe4f6009de4fa67f"
-            ],
-            "index": "pypi",
-            "version": "==0.7.2"
+            "git": "ssh://git@github.com/badboy99tw/PyTuning.git",
+            "ref": "8cb4dff0786a73d71d942569486dfb301638bdb3"
         },
         "scipy": {
             "hashes": [

@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pytuning = "*"
+pytuning = { git = 'git@github.com:badboy99tw/PyTuning.git' }
 numeral = "*"
 pygame = "*"
 scipy = "*"
